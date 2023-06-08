@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>23号空间站⭐</title>
   
+  <subtitle>Cause Love never dies</subtitle>
+  <link href="https://gitee.com/Apritau/Apritau.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://gitee.com/Apritau/Apritau.gitee.io/"/>
   <updated>2023-06-07T06:57:37.486Z</updated>
-  <id>http://example.com/</id>
+  <id>https://gitee.com/Apritau/Apritau.gitee.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Apritau</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2023/06/07/text/"/>
-    <id>http://example.com/2023/06/07/text/</id>
+    <link href="https://gitee.com/Apritau/Apritau.gitee.io/2023/06/07/text/"/>
+    <id>https://gitee.com/Apritau/Apritau.gitee.io/2023/06/07/text/</id>
     <published>2023-06-07T06:56:29.960Z</published>
     <updated>2023-06-07T06:57:37.486Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/06/05/hello-world/"/>
-    <id>http://example.com/2023/06/05/hello-world/</id>
+    <link href="https://gitee.com/Apritau/Apritau.gitee.io/2023/06/05/hello-world/"/>
+    <id>https://gitee.com/Apritau/Apritau.gitee.io/2023/06/05/hello-world/</id>
     <published>2023-06-05T13:57:14.685Z</published>
     <updated>2023-06-05T13:57:14.685Z</updated>
     
