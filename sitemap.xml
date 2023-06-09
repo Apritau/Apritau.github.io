@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gitee.com/Apritau/Apritau.gitee.io/posts/0/</loc>
+    
+    <lastmod>2023-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/Apritau/Apritau.gitee.io/posts/3eeb/</loc>
+    
+    <lastmod>2023-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gitee.com/Apritau/Apritau.gitee.io/links/index.html</loc>
     
     <lastmod>2023-06-09</lastmod>
@@ -23,24 +41,6 @@
     <loc>https://gitee.com/Apritau/Apritau.gitee.io/tags/index.html</loc>
     
     <lastmod>2023-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gitee.com/Apritau/Apritau.gitee.io/posts/0/</loc>
-    
-    <lastmod>2023-06-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gitee.com/Apritau/Apritau.gitee.io/posts/3eeb/</loc>
-    
-    <lastmod>2023-06-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
