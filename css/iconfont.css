@@ -1,14 +1,16 @@
-@font-face {
+font-face {
   font-family: "iconfont";
   /* Project id 4114588 */
-  src: url('//at.alicdn.com/t/c/font_4114588_oz5meuggch.woff2?t=1686394089663') format('woff2'),
-    url('//at.alicdn.com/t/c/font_4114588_oz5meuggch.woff?t=1686394089663') format('woff'),
-    url('//at.alicdn.com/t/c/font_4114588_oz5meuggch.ttf?t=1686394089663') format('truetype');
+  /* Color fonts */
+  src:
+    url('//at.alicdn.com/t/c/font_4114588_hd41ke1d4g.woff2?t=1686414432019') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4114588_hd41ke1d4g.woff?t=1686414432019') format('woff'),
+    url('//at.alicdn.com/t/c/font_4114588_hd41ke1d4g.ttf?t=1686414432019') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -96,14 +98,4 @@
 
 .icon-mofabang:before {
   content: "\e66e";
-}
-
-#article-container h1:before,
-#article-container h2:before,
-#article-container h3:before,
-#article-container h4:before,
-#article-container h5:before,
-#article-container h6:before {
-  font-family: "iconfont";
-  content: "\e6a0";
 }
