@@ -3,11 +3,11 @@
   <title>23号空间站</title>
   
   <subtitle>为什么乌鸦像写字台</subtitle>
-  <link href="https://gitee.com/Apritau/Apritau.gitee.io/atom.xml" rel="self"/>
+  <link href="https://github.com/Apritau/Apritau.github.io/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/Apritau/Apritau.gitee.io/"/>
+  <link href="https://github.com/Apritau/Apritau.github.io/"/>
   <updated>2023-06-09T14:29:03.039Z</updated>
-  <id>https://gitee.com/Apritau/Apritau.gitee.io/</id>
+  <id>https://github.com/Apritau/Apritau.github.io/</id>
   
   <author>
     <name>Apritau</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://gitee.com/Apritau/Apritau.gitee.io/2023-06-07-text.html"/>
-    <id>https://gitee.com/Apritau/Apritau.gitee.io/2023-06-07-text.html</id>
+    <link href="https://github.com/Apritau/Apritau.github.io/2023-06-07-text.html"/>
+    <id>https://github.com/Apritau/Apritau.github.io/2023-06-07-text.html</id>
     <published>2023-06-07T06:56:29.960Z</published>
     <updated>2023-06-09T14:29:03.039Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/Apritau/Apritau.gitee.io/2023-06-05-hello-world.html"/>
-    <id>https://gitee.com/Apritau/Apritau.gitee.io/2023-06-05-hello-world.html</id>
+    <link href="https://github.com/Apritau/Apritau.github.io/2023-06-05-hello-world.html"/>
+    <id>https://github.com/Apritau/Apritau.github.io/2023-06-05-hello-world.html</id>
     <published>2023-06-05T13:57:14.685Z</published>
     <updated>2023-06-10T11:28:08.627Z</updated>
     
