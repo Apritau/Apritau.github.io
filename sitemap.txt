@@ -1,6 +1,6 @@
-https://github.com/Apritau/Apritau.github.io/2023-06-05-hello-world.html
-https://github.com/Apritau/Apritau.github.io/2023-06-07-text.html
-https://github.com/Apritau/Apritau.github.io/links/index.html
-https://github.com/Apritau/Apritau.github.io/categories/index.html
-https://github.com/Apritau/Apritau.github.io/tags/index.html
-https://github.com/Apritau/Apritau.github.io
+https://apritau.github.io/2023-06-05-hello-world.html
+https://apritau.github.io/2023-06-07-text.html
+https://apritau.github.io/links/index.html
+https://apritau.github.io/categories/index.html
+https://apritau.github.io/tags/index.html
+https://apritau.github.io/
