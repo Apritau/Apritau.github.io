@@ -27,6 +27,7 @@
     -moz-border-radius: 6px !important;
     -ms-border-radius: 6px !important;
     -o-border-radius: 6px !important;
+    padding: 4px !important;
 }
 
 .menus_item_child:not(#sidebar-menus ul) {
