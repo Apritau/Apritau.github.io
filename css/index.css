@@ -3771,8 +3771,8 @@ h1.page-title + .tag-cloud-list {
   display: flex;
 }
 #loading-box.loaded .load-image {
-  display: none;
   z-index: -1001;
+  display: none;
 }
 #hexo-config('preloader.enable') & hexo-config('preloader.source') == 1 .loading-bg {
   position: fixed;
