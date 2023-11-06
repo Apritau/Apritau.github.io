@@ -321,7 +321,6 @@ document.addEventListener('DOMContentLoaded', function () {
       const currentTop = window.scrollY || document.documentElement.scrollTop
       const isDown = scrollDirection(currentTop)
       if (currentTop > 56) {
-        $header.classList.add('nav-fixed')
         if (isDown) {
           if ($header.classList.contains('nav-visible')) $header.classList.remove('nav-visible')
           if (isChatBtn && isChatShow === true) {
