@@ -1,6 +1,5 @@
 function whenDOMReady() {
   if (location.pathname == '/essay/') document.addEventListener('DOMContentLoaded', function () {setTimeout(() => { changeTime(), btf.loadLightbox(document.querySelectorAll('#icat-bber img')), window.lazyLoadInstance && window.lazyLoadInstance.update(), reflashWaterFall();}, 300)})
-  initEssay();
 }
 whenDOMReady()
 document.addEventListener("pjax:complete", whenDOMReady)
@@ -68,6 +67,13 @@ function commentText(txt) {
     }
   }
 } // 引用评论跳转 - 即刻短文
+
+function whenDOMReady() {
+	initEssay();
+};
+
+whenDOMReady()
+document.addEventListener("pjax:complete", whenDOMReady)
 
 function initEssay() {
   if (document.querySelector('#essay-mini')) {
