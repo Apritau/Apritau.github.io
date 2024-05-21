@@ -4445,9 +4445,9 @@ h1.page-title + .tag-cloud-list {
   position: fixed;
   background: rgba(5,5,40,0.518);
   z-index: 1001;
-  opacity: 100;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10000)";
-  filter: alpha(opacity=10000);
+  opacity: 1;
+  -ms-filter: none;
+  filter: none;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
