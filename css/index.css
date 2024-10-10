@@ -4461,7 +4461,7 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   height: 100%;
   position: fixed;
-  background: rgba(5,5,40,0.518);
+  background: #050528;
   z-index: 1001;
   opacity: 1;
   -ms-filter: none;
