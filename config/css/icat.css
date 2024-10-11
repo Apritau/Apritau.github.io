@@ -202,7 +202,7 @@
 
 /* 侧边栏分类（标签）样式调整 */
 
-#post .post-copyright {
+/* #post .post-copyright {
   background: var(--icat-card-bg);
   padding: 1rem 1.3rem;
   overflow: hidden;
@@ -223,7 +223,7 @@
   color: var(--icat-fontcolor);
   opacity: 0.1;
   filter: blur(7px);
-}
+} */
 
 /* 版权样式调整 */
 
