@@ -227,7 +227,7 @@
 
 /* 版权样式调整 */
 
-/* #post .tag_share {
+#post .tag_share {
   display: flex;
   align-items: center;
   position: relative;
@@ -290,7 +290,7 @@
   display: flex;
   margin-top: 0.5rem;
   margin-left: -40px;
-} */
+}
 
 /* 打赏样式调整 */
 
