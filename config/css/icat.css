@@ -102,7 +102,7 @@
 /* 重新定义宽度 */
 
 .layout > div:first-child {
-    width: 100%;
+    width: 78%;
 }
 #post {
     width: 78%;
