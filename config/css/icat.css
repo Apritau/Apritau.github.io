@@ -331,7 +331,7 @@ a.post-meta__tags::before {
 }
 /* 标签调整 */
 
-#post-comment .comment-head {
+/* #post-comment .comment-head {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -372,13 +372,17 @@ blockquote > :last-child {
 .el-button--small {
   border-radius: 4px !important;
 }
+*/
 /* 评论编辑块调整 */
 
+/*
 .tk-submit-action-icon.__markdown {
   display: none;
 }
+*/
 /* markdown编辑快隐藏 */
 
+/*
 .tk-avatar {
   border-radius: 4px !important;
 }
@@ -457,9 +461,10 @@ blockquote > :last-child {
 .tk-admin-actions {
   margin-bottom: 0 !important;
   border-bottom: 0 !important;
-}
+} */
 /* 评论管理 */
 
+/*
 .tk-panel {
   border: var(--style-border-always);
 }
@@ -478,6 +483,7 @@ blockquote > :last-child {
 .tk-admin-config-item {
   color: var(--icat-fontcolor);
 }
+*/
 /* 配置管理 */
 
 /* 评论区样式 */
