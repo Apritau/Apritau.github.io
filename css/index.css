@@ -2185,7 +2185,7 @@ figure.highlight pre .javascript .function {
   opacity: 0.8;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   filter: alpha(opacity=80);
-  font-size: 8px;
+  font-size: 16px;
   line-height: 1;
   margin-bottom: 12px;
   display: -webkit-box;
