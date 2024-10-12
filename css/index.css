@@ -2486,7 +2486,7 @@ figure.highlight pre .javascript .function {
 }
 #icat-about-page #one .photo {
   overflow: hidden;
-  background: url("https://cdn.jsdelivr.net/gh/Apritau/MyblogImage@main/img/202410121444375.jpg") no-repeat center;
+  background: url("https://gitee.com/Apritau/MyblogImage/raw/main/img/202410121444375.jpg") no-repeat center;
   background-size: 130%;
   -webkit-transition: 1s;
   -moz-transition: 1s;
@@ -2511,7 +2511,7 @@ figure.highlight pre .javascript .function {
   background-position-y: 50%;
 }
 #icat-about-page #one .map {
-  background: url("https://cdn.jsdelivr.net/gh/Apritau/MyblogImage@main/img/202410121447569.jpg") no-repeat center;
+  background: url("https://gitee.com/Apritau/MyblogImage/raw/main/img/202410121447569.jpg") no-repeat center;
   background-size: 100%;
   overflow: hidden;
   -webkit-transition: 2s;
@@ -3109,7 +3109,7 @@ figure.highlight pre .javascript .function {
   padding: 2.25rem 2rem;
 }
 [data-theme='dark'] #icat-about-page #one .map {
-  background: url("https://cdn.jsdelivr.net/gh/Apritau/MyblogImage@main/img/202410121447642.jpg") no-repeat center;
+  background: url("https://gitee.com/Apritau/MyblogImage/raw/main/img/202410121447642.jpg") no-repeat center;
   background-size: 100%;
 }
 [data-theme='dark'] #icat-about-page #one .map:hover {
